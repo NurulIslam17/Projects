@@ -1,0 +1,53 @@
+.sub-header-contact
+{
+    height: 50vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url("images/contact.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(212, 129, 129);
+    text-align: center;
+
+}
+.sub-header-contact h1{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+
+.location
+{
+    width:80%;
+    margin: auto;
+}
+
+.location iframe
+{
+    width: 100%;
+}
+
+.contact-us
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 12px;
+}
+
+.contact-col
+{
+    flex-basis: 48%;
+}
+
+.contact-col input , .contact-col textarea
+
+{
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: rgba(214, 107, 107, 0.133);
+}
+
