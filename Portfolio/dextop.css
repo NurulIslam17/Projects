@@ -1,0 +1,140 @@
+.col-1{width: 1.33%;}
+.col-2{width: 19.66%;}
+.col-3{width: 25%;}
+.col-4{width: 33.33%;}
+.col-5{width: 30.66%;}
+.col-6{width: 45%;}
+.col-7{width: 58.33%;}
+.col-8{width: 66.66%;}
+.col-9{width: 75%;}
+.col-10{width: 83.33%;}
+.col-11{width: 91.66%;}
+.col-12{width: 100%;}
+
+.logo{
+    text-align: left;
+  ;
+}
+.logo img{
+   
+    border: none;
+    border-radius: 100px;
+    height: 100px;
+    width: 120px;
+}
+.title{
+    text-align: left;
+}
+.linkMenu{
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.linkMenu a{
+    font-size: 15px;
+    padding: 5px 10px;
+}
+.linkMenu a:hover{
+    background-color: indigo;
+    color: white;
+}
+
+  /* profile design start*/
+
+
+
+/* profile design start*/
+
+
+ /* about me design start*/
+
+ .aboutme{
+     background-color: thistle;
+ }
+
+ .aboutME-image{
+     margin-top: 100px;
+ }
+
+
+
+
+
+
+
+
+/* about me design start*/
+
+
+
+  /* about me design start*
+.aboutME-image{
+    margin-top: 100px;
+}
+
+.aboutME-image img{
+    
+        height: 260px;
+        width: 230px;
+    
+}
+
+
+/* aboutme design start*/
+
+
+/* experience design start*/
+
+.professonal-experienc
+{
+    padding: 1% 5%;
+    background-color: rgb(181, 241, 221);
+}
+
+
+/* experience design end*/
+
+/* Contact form start*/
+
+.acheivement{
+    padding-right: 50px;
+}
+
+
+.contact button{
+   width: 150px;
+}
+
+.contact button:hover{
+    background-color: violet;
+    color: black;
+ }
+
+ .contact-link
+ {
+     position: relative;
+ }
+
+ .link-button{
+     margin-top: 100px;
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transition: translate(-50%,-50%);
+
+
+ }
+/* Contact form end*/
+
+
+/* footer end*/
+
+.footer-menu a{
+   margin-top: 12px;
+}
+
+.footer-menu a{
+    display: inline;
+    margin: 10px;
+}
+
+/* footer end*/
